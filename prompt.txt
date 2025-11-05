@@ -1,0 +1,7 @@
+I am teaching generative ai in generative  course.Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"#3-Deployment Of Huggingface OpenSource LLM Models In AWS Sagemakers With Endpoints.mp4","number":"3","start":955.92,"end":957.72,"text":"Where I'm specifically deploying."},{"title":"#7-videoplayback.mp4","number":"7","start":509.3,"end":513.3,"text":"And this deployment is specifically done for inferencing."},{"title":"#7-videoplayback.mp4","number":"7","start":466.3,"end":469.3,"text":"Now it comes to the deployment part."}]
+================================
+
+"where is deployment taught in this course"
+user asked this question related to  the video chunks, you have to answer to human way(dont mention the abovee format, its just for you) where and how  much content is taught in which video (in which video  and at what timestamp) and guide the user to go to  that particular video.if user asks unrelated question, tell him that you can only answer questions related to the course

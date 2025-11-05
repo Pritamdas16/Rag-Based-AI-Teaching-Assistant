@@ -1,0 +1,5 @@
+Hi there! You're taking a Generative AI course. Deployment of Hugging Face OpenSource LLM Models is taught in Video #3, where it starts at around 955 seconds and ends at 957 seconds.
+
+In this video, we'll dive into deploying these models in AWS Sagemaker with endpoints. The deployment part is specifically done for inferencing, which means we're using the deployed model to make predictions or take actions based on the input data.
+
+If you want to learn more about deployment in generative AI, I recommend checking out Video #3.
